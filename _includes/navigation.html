@@ -1,0 +1,22 @@
+<nav>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %} class = "current" {% endif %}>
+        {{ item.name }} 
+      </a>
+    {% endfor %}
+    <a href="https://github.com/insomniac-tk/">
+    <img src="../assets/images/github.png" alt="Github Logo" width="16px" height="16px">
+    </a> 
+
+    <a href="https://www.linkedin.com/in/tejaskhanna/">
+      <img src="../assets/images/linkedin.png" alt="LinkedIn Logo" width="16x" height="16px">
+    </a> 
+
+    
+    <a href="https://www.instagram.com/insomniac_tk/">
+      <img src="../assets/images/instagram.png" alt="Instagram Logo" width="16px" height="16px">
+    </a> 
+    <a href="https://stackoverflow.com/users/7588246/insomniac-tk" >
+    <img src="../assets/images/stack-overflow.png" alt="stack-overflow logo">
+    </a>  
+</nav>

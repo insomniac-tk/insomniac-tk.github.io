@@ -1,0 +1,49 @@
+// defaults 
+body{
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+
+.current {
+    padding: 5px;
+    text-decoration: none;
+  }
+a
+{
+    text-decoration: none;
+}
+.container 
+{
+    margin:auto;
+    font-weight: 500;
+    max-width: 960px;
+    padding-right: 10px; 
+    padding-left:  10px; 
+    font-family: "Oswald";
+}
+.main
+{
+    margin:auto;
+    font-weight: 500;
+    max-width: 500px;
+    padding-right: 30px; 
+    padding-left:  30px; 
+    font-family: "Oswald";
+}
+
+nav a{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+@font-face {
+    font-family: 'Oswald';
+    src:  url('../fonts/Oswald-VariableFont_wght.woff2') format('woff2'),
+          url('../fonts/Oswald-VariableFont_wght.eot') format('eot'),
+          url('../fonts/Oswald-VariableFont_wght.woff') format('woff'),
+          url('../fonts/Oswald-VariableFont_wght.ttf') format('ttf')
+  }
