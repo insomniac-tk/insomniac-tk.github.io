@@ -1,19 +1,23 @@
 // defaults 
-body{
+.body_bg{
     margin: 0;
     padding: 0;
+    background:url('../images/home_background.jpg') no-repeat center;
+    background-size: cover;
   }
-
-
 
 
 .current {
     padding: 5px;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
     text-decoration: none;
   }
 a
 {
     text-decoration: none;
+    color: inherit;
 }
 .container 
 {
@@ -31,9 +35,13 @@ a
     max-width: 500px;
     padding-right: 30px; 
     padding-left:  30px; 
+    font-size: 20px;
     font-family: "Oswald";
 }
-
+.main nav
+{
+    margin-top: 10px;
+}
 nav a{
     padding-left: 10px;
     padding-right: 10px;

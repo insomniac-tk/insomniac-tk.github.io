@@ -10,3 +10,10 @@ distinguishing them from dessert bananas. The fruit is variable in size, color,
 and firmness, but is usually elongated and curved, with soft flesh rich in
 starch covered with a rind, which may be green, yellow, red, purple, or brown
 when ripe.
+
+~~~python
+numbers = [1,2,3]
+def square(x):
+    return x*x
+results = map(square, numbers) # [1,4,9]
+~~~
