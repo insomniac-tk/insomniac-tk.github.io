@@ -28,15 +28,20 @@ a
     padding-left:  10px; 
     font-family: "Oswald";
 }
+blockquote
+{
+    font-weight: lighter;
+}
 .main
 {
     margin:auto;
     font-weight: 500;
-    max-width: 500px;
+    max-width: 700px;
     padding-right: 30px; 
     padding-left:  30px; 
     font-size: 20px;
     font-family: "Oswald";
+    text-align: justify;
 }
 .main nav
 {
@@ -55,3 +60,34 @@ nav a{
           url('../fonts/Oswald-VariableFont_wght.woff') format('woff'),
           url('../fonts/Oswald-VariableFont_wght.ttf') format('ttf')
   }
+
+  .my-image
+  {
+      border-radius: 22px;
+      height: 6%;
+      width: 20%;
+  }
+  .main article
+  {
+      font-size: 18px;
+  }
+  .main article a:link
+  {
+      color: red;
+  }
+  .main article a:visited
+  {
+      color: blue;
+  }
+
+  .center-image
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px
+  }
+
+a:hover{
+    text-decoration: underline;
+}
