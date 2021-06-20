@@ -172,7 +172,7 @@ In this post I convered the following:
     <br/>
     [4] <a href="https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor" target = "__blank">Concurrent futures, Python docs</a>
     <br/>
-</div>
+</div> 
 ## Useful Links  
 1. [Interesting StackOverflow question related to threading in python.](https://stackoverflow.com/questions/2846653/how-can-i-use-threading-in-python)
 2. [Python3 docs on concurrent.features modules.](https://docs.python.org/3/library/concurrent.futures.html)
