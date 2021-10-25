@@ -9,7 +9,7 @@ author: Tejas
 Batman and Joker, this rivalry to me  is a work of philosophy masquerading as a comic book series.
 There are several questions which are being answered by the actions and the conduct of the characters involved, some of them being - What is a good life? What is the right way to live? What's better - anarchy, nihilism , destruction or order, having a code, living for something no matter how abstract the ideal may be. 
 
-Childhood Trauma
+## Childhood Trauma
 Bruce Wayne(Batman) and Arthur Fleck(Joker) both had terrible childhoods. The latter saw the rich getting richer , struggled with economic depression (and clinical too) and had an abusive father. 
 The former saw his mom and dad gunned down in the middle of an alley in Gotham city. Being an only child, he had no-one except his butler.
 
